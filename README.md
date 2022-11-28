@@ -1,5 +1,11 @@
 # NgrxTutorial
 
+Implemented Ngrx store(store,actions,reducers,effects) and authentication using firebase,interceptors,guards,lazy loading,routing.
+
+Application contains counter section and posts section and login,signup and logout functionality
+
+Workflow ---  Signup using email and password if you dont have an account and then you can either go to counter section(by clicking on counter) and can increase,decrease or add the value and change channel name or you can go to post section and add,delete or edit the posts.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
 ## Development server
